@@ -5,4 +5,4 @@
 
 [테트리스 바로가기](http://igh05001.cafe24.com/guestbook.jsp)
 <br>
-[![테트리스이미지](https://github.com/bonggil-tech/guestbook-JSP-/blob/main/guestbook.png)](http://igh05001.cafe24.com/guestbook.jsp)
+[![테트리스이미지](https://github.com/bonggil-tech/tetris_source/blob/main/tetris.PNG)](http://igh05001.cafe24.com/guestbook.jsp)
